@@ -88,9 +88,10 @@ main {
 }
 
 .planes-wrapper {
-  position: relative;
-  height: 20%;
+  text-align: center;
+  
 }
+
 .planes-wrapper img {
   width: 100%;
 }
